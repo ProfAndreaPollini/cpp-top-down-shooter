@@ -1,0 +1,3 @@
+[submodule "lib/SimpleGameKit"]
+	path = lib/SimpleGameKit
+	url = https://github.com/ProfAndreaPollini/SimpleGameKit.git
